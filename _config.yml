@@ -1,7 +1,7 @@
-title: "Affiliates"
+title: "Brian's Jekyll Site"
 email: wowthemesnet@gmail.com
-timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+timezone: America/Los_Angeles
+baseurl: "/jekylltest"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
