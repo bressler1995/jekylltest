@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello Brian"
 categories: [ Jekyll, tutorial ]
-image: assets/images/1.jpg
+image: assets/images/rocketcool.png
 ---
 
 # Welcome
