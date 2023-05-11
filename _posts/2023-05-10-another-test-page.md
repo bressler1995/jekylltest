@@ -2,7 +2,7 @@
 layout: post
 title:  "Another Test Page"
 categories: [ Jekyll, tutorial ]
-image: assets/images/1.jpg
+image: assets/images/marswalk.png
 ---
 
 # Welcome
