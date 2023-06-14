@@ -86,6 +86,15 @@ p, span, p a {
 	margin-bottom: 12px;
 }
 
+.tops_form_container .tops_form_content p a {
+	color: #2b94ab;
+	text-decoration: underline;
+}
+
+.tops_form_container .tops_form_content p a:hover, .tops_form_container .tops_form_content p a:active, .tops_form_container .tops_form_content p a:focus {
+	opacity: 0.7;
+}
+
 .tops_form_container .tops_form_content .tops_form_image {
 	display: block;
 	width: 100%;
