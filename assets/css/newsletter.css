@@ -24,9 +24,9 @@ p, span, p a {
 	display: block;
 	width: 100%;
 	margin-top: 0;
-	margin-bottom: 14px;
-	font-size: 26px;
-	line-height: 30px;
+	margin-bottom: 12px;
+	font-size: 24px;
+	line-height: 27px;
 	text-transform: capitalize;
 	color: #222;
 }
@@ -86,6 +86,9 @@ p, span, p a {
 	display: block;
 	width: 100%;
 	height: auto;
+	border-radius: 5px;
+	overflow: hidden;
+	margin-bottom: 17px;
 }
 
 div.ctct-form-embed div.ctct-form-defaults {
@@ -104,7 +107,7 @@ div.ctct-form-embed form.ctct-form-custom fieldset.ctct-form-lists legend.ctct-f
 
 div.ctct-form-embed form.ctct-form-custom div.ctct-form-field {
 	margin: 0 !important;
-	margin-bottom: 15px !important;
+	margin-bottom: 14px !important;
 }
 
 div.ctct-form-embed form.ctct-form-custom label.ctct-form-label, div.ctct-form-embed form.ctct-form-custom fieldset.ctct-form-lists legend.ctct-form-lists-legend {
