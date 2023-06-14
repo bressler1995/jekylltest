@@ -60,7 +60,7 @@ p, span, p a {
 	padding-bottom: 70px;
 	background-size: cover;
 	background-position: center center;
-	background-image:url('assets/images/tops_signup_bg.jpg');
+	background-image:url('../images/tops_signup_bg.jpg');
 }
 
 .tops_form_container {
