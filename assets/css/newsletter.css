@@ -85,7 +85,6 @@ p, span, p a {
 .tops_form_container .tops_form_content .tops_form_image {
 	display: block;
 	width: 100%;
-	height: auto;
 	border-radius: 5px;
 	overflow: hidden;
 	margin-bottom: 17px;
@@ -120,4 +119,17 @@ div.ctct-form-embed form.ctct-form-custom label.ctct-form-label, div.ctct-form-e
 
 .grecaptcha-badge {
 	visibility: hidden;
+}
+
+@media(max-width: 767.9px) {
+	.tops_form_container .tops_form_content .tops_form_image {
+		height: 150px;
+		object-fit: cover;
+	}
+}
+
+@media(min-width: 768px) {
+	.tops_form_container .tops_form_content .tops_form_image {
+		height: auto;
+	}
 }
