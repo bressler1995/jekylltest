@@ -38,7 +38,7 @@ p, span, p a {
 	margin-top: 0;
 	margin-bottom: 12px;
 	font-size: 15px;
-	line-height: 1.5em;
+	line-height: 1.4em;
 }
 
 .tops_base_element {
@@ -88,4 +88,9 @@ div.ctct-form-embed form.ctct-form-custom fieldset.ctct-form-lists {
 div.ctct-form-embed form.ctct-form-custom fieldset.ctct-form-lists legend.ctct-form-lists-legend {
 	left: initial !important;
 	margin-bottom: 12px !important;
+}
+
+div.ctct-form-embed form.ctct-form-custom div.ctct-form-field {
+	margin: 0 !important;
+	margin-bottom: 15px !important;
 }
