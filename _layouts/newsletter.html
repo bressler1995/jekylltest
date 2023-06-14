@@ -34,6 +34,9 @@ gtag('config', '{{site.ganalytics}}');
 	<div class="tops_base_element">
 		<div class="tops_form_container">
 			<div class="tops_form_content">
+			{% if page.image %}
+				  <img class="tops_form_image" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+			{% endif %}
 		    {{ content }}
 			</div>
 		    <!-- Begin Constant Contact Inline Form Code -->

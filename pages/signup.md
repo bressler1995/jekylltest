@@ -2,7 +2,7 @@
 layout: newsletter
 title: Sign Up
 permalink: "/signup/"
-image: assets/images/screenshot.png
+image: assets/images/tops_signup_banner.jpg
 ---
 
 ## Lorem Ipsum Dolor Sit

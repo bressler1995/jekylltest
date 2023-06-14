@@ -82,6 +82,12 @@ p, span, p a {
 	margin-bottom: 12px;
 }
 
+.tops_form_container .tops_form_content .tops_form_image {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
 div.ctct-form-embed div.ctct-form-defaults {
 	padding: 0 !important;
 	padding-left: 5px !important;
