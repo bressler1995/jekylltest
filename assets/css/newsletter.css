@@ -55,7 +55,7 @@ p, span, p a {
 }
 
 div.ctct-form-embed div.ctct-form-defaults {
-	padding: 0;
-	padding-left: 5px;
-	padding-right: 5px;
+	padding: 0 !important;
+	padding-left: 5px !important;
+	padding-right: 5px !important;
 }
