@@ -20,6 +20,27 @@ p, span, p a {
 	font-family: 'PT Sans', sans-serif;
 }
 
+.tops_form_container h2 {
+	display: block;
+	width: 100%;
+	margin-top: 0;
+	margin-bottom: 14px;
+	font-size: 26px;
+	line-height: 30px;
+	text-transform: capitalize;
+	color: #222;
+}
+
+.tops_form_container p {
+	display: block;
+	width: 100%;
+	color: #707070;
+	margin-top: 0;
+	margin-bottom: 12px;
+	font-size: 15px;
+	line-height: 1.5em;
+}
+
 .tops_base_element {
 	display: flex;
 	position: fixed;
