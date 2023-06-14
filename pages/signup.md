@@ -5,5 +5,7 @@ permalink: "/signup/"
 image: assets/images/tops_signup_banner.jpg
 ---
 
-## Lorem Ipsum Dolor Sit
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor augue mauris augue neque gravida in. Dignissim convallis aenean et tortor at risus viverra. At erat pellentesque adipiscing commodo. Quam viverra orci sagittis eu volutpat odio. Consequat mauris nunc congue nisi. Diam maecenas ultricies mi eget mauris pharetra. Massa tincidunt dui ut ornare. Eu nisl nunc mi ipsum faucibus. Praesent semper feugiat nibh sed. Lobortis mattis aliquam faucibus purus in massa tempor nec. Ipsum consequat nisl vel pretium.
+## TOPS Email List
+We are excited about your interest in the Transform to OPen Science (TOPS) program. As we embark on our journey to create a scientific environment more inclusive to all demographics - we are interested in growing our community of open science champions!
+
+Please fill out the form with your information - once completed, will then add you to the TOP's emailing list - if requested to find out about information and opportunities with TOPS.  If you are interested in participating in the discussion without being on the email list, you can also join the discussion at <https://github.com/nasa/Transform-to-Open-Science/discussions>
