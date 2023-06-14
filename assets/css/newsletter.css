@@ -58,7 +58,7 @@ p, span, p a {
 	padding: 30px;
 	padding-top: 70px;
 	padding-bottom: 70px;
-	background: linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('../images/tops_signup_bg.jpg');
+	background: linear-gradient(0deg, rgba(43, 148, 171, 0.7), rgba(43, 148, 171, 0.7)), url('../images/tops_signup_bg.jpg');
 	background-size: cover;
 	background-position: center center;
 }
