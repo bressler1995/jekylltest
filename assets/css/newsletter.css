@@ -83,9 +83,9 @@ div.ctct-form-embed div.ctct-form-defaults {
 
 div.ctct-form-embed form.ctct-form-custom fieldset.ctct-form-lists {
 	padding: 0 !important;
-	margin-top: 12px !important;
 }
 
 div.ctct-form-embed form.ctct-form-custom fieldset.ctct-form-lists legend.ctct-form-lists-legend {
 	left: initial !important;
+	margin-bottom: 12px !important;
 }
