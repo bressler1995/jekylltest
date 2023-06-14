@@ -56,8 +56,8 @@ p, span, p a {
 	align-items: center;
 	box-sizing: border-box;
 	padding: 30px;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 70px;
+	padding-bottom: 70px;
 	background-size: cover;
 	background-position: center center;
 }
@@ -119,6 +119,14 @@ div.ctct-form-embed form.ctct-form-custom label.ctct-form-label, div.ctct-form-e
 
 .grecaptcha-badge {
 	visibility: hidden;
+}
+
+.div.ctct-form-embed form.ctct-form-custom button.ctct-form-button {
+	border-radius: 5px !important;
+    text-transform: uppercase !important;
+    font-weight: 700 !important;
+    font-size: 15px !important;
+    line-height: 19px !important;
 }
 
 @media(max-width: 767.9px) {
