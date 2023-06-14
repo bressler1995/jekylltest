@@ -63,6 +63,18 @@ p, span, p a {
 	background-image:url('../images/tops_signup_bg.jpg');
 }
 
+.tops_form_overlay {
+	display: block;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-color: #000;
+	opacity: 0.8;
+	z-index: 4;
+}
+
 .tops_form_container {
 	display: flex;
 	position: relative;
@@ -122,7 +134,7 @@ div.ctct-form-embed form.ctct-form-custom label.ctct-form-label, div.ctct-form-e
 	visibility: hidden;
 }
 
-.div.ctct-form-embed form.ctct-form-custom button.ctct-form-button {
+.ctct-form-embed.form_0 .ctct-form-custom .ctct-form-button {
 	border-radius: 5px !important;
     text-transform: uppercase !important;
     font-weight: 700 !important;
