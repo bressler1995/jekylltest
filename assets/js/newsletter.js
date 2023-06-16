@@ -9,7 +9,7 @@ function newsletterLoad() {
 		
 		if(tops_emailList_label != null) {
 			tops_emailList_label_inner = tops_emailList_label.innerHTML;
-			tops_emailList_label_inner.innerHTML = "Sign Up!";
+			tops_emailList_label.innerHTML = "Sign Up!";
 		}
 	});
 
