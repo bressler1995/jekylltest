@@ -68,6 +68,7 @@ p, span, p a {
 	line-height: 27px;
 	text-transform: capitalize;
 	color: #222;
+	font-weight: 700;
 }
 
 .tops_form_container .tops_form_content h3 {
@@ -75,10 +76,11 @@ p, span, p a {
 	width: 100%;
 	margin-top: 0;
 	margin-bottom: 12px;
-	font-size: 18px;
-	line-height: 20px;
+	font-size: 16px;
+	line-height: 18px;
 	text-transform: capitalize;
 	color: #222;
+	font-weight: 700;
 }
 
 .tops_form_container .tops_form_content p {
@@ -111,7 +113,7 @@ p, span, p a {
 	width: 100%;
 	border-radius: 5px;
 	overflow: hidden;
-	margin-bottom: 17px;
+	margin-bottom: 20px;
 }
 
 div.ctct-form-embed div.ctct-form-defaults {
