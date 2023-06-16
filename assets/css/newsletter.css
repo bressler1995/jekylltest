@@ -20,27 +20,6 @@ p, span, p a {
 	font-family: 'PT Sans', sans-serif;
 }
 
-.tops_form_container h2 {
-	display: block;
-	width: 100%;
-	margin-top: 0;
-	margin-bottom: 12px;
-	font-size: 24px;
-	line-height: 27px;
-	text-transform: capitalize;
-	color: #222;
-}
-
-.tops_form_container p {
-	display: block;
-	width: 100%;
-	color: #707070;
-	margin-top: 0;
-	margin-bottom: 12px;
-	font-size: 15px;
-	line-height: 1.4em;
-}
-
 .tops_base_element {
 	display: flex;
 	position: fixed;
@@ -78,6 +57,38 @@ p, span, p a {
 	-webkit-box-shadow: 7px 7px 15px 0px rgba(0,0,0,0.3);
 	-moz-box-shadow: 7px 7px 15px 0px rgba(0,0,0,0.3);
 	box-shadow: 7px 7px 15px 0px rgba(0,0,0,0.3);
+}
+
+.tops_form_container .tops_form_content h2 {
+	display: block;
+	width: 100%;
+	margin-top: 0;
+	margin-bottom: 12px;
+	font-size: 24px;
+	line-height: 27px;
+	text-transform: capitalize;
+	color: #222;
+}
+
+.tops_form_container .tops_form_content h3 {
+	display: block;
+	width: 100%;
+	margin-top: 0;
+	margin-bottom: 12px;
+	font-size: 18px;
+	line-height: 20px;
+	text-transform: capitalize;
+	color: #222;
+}
+
+.tops_form_container .tops_form_content p {
+	display: block;
+	width: 100%;
+	color: #707070;
+	margin-top: 0;
+	margin-bottom: 12px;
+	font-size: 15px;
+	line-height: 1.4em;
 }
 
 .tops_form_container .tops_form_content {
