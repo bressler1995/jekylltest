@@ -157,12 +157,13 @@ div.ctct-form-embed form.ctct-form-custom label.ctct-form-label, div.ctct-form-e
 }
 
 .tops_form_container .ctct-form-success {
-	display: block !important;
 	min-height: initial !important;
 	border-radius: 5px;
 	background-color: #28a745;
 	width: 100%;
 	height: auto;
+	box-sizing: border-box;
+	padding: 7px;
 }
 
 .tops_form_container .ctct-form-success h2 {
