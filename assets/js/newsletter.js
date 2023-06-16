@@ -17,7 +17,13 @@ function newsletterLoad() {
 			if(tops_emailList_listsLabel.length > 0) {
 				for(i = 0; i < tops_emailList_listsLabel.length; i++) {
 					let currentlistlabel = tops_emailList_listsLabel[i];
-					console.log(currentlistlabel.innerHTML);
+					console.log('Changing ' + currentlistlabel.innerHTML);
+					
+					if(i == 0) {
+						currentlistlabel.innerHTML = 'Pre-Enroll in Open Science 101';
+					} else if(i == 1) {
+						currentlistlabel.innerHTML = 'Subscribe to the TOPS Newsletter';
+					}
 				}
 			}
 		}
