@@ -91,6 +91,7 @@ p, span, p a {
 	margin-bottom: 12px;
 	font-size: 15px;
 	line-height: 1.4em;
+	font-weight: 400;
 }
 
 .tops_form_container .tops_form_content {
@@ -153,6 +154,38 @@ div.ctct-form-embed form.ctct-form-custom label.ctct-form-label, div.ctct-form-e
     font-weight: 700 !important;
     font-size: 15px !important;
     line-height: 19px !important;
+}
+
+.tops_form_container .ctct-form-success {
+	display: block !important;
+	min-height: initial !important;
+	border-radius: 5px;
+	background-color: #28a745;
+	width: 100%;
+	height: auto;
+}
+
+.tops_form_container .ctct-form-success h2 {
+	display: block;
+	width: 100%;
+	font-family: 'PT Serif', serif !important;
+	font-size: 16px !important;
+	line-height: 18px !important;
+	margin-top: 0 !important;
+	margin-bottom: 12px !important;
+	color: #FFF !important;
+}
+
+.tops_form_container .ctct-form-success p {
+	display: block;
+	width: 100%;
+	color: #707070;
+	margin-top: 0;
+	margin-bottom: 12px;
+	font-size: 15px;
+	line-height: 1.4em;
+	font-weight: 400;
+	color: rgba(255, 255, 255, 0.85) !important;
 }
 
 @media(max-width: 767.9px) {
