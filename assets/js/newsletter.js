@@ -15,7 +15,7 @@ function newsletterLoad() {
 		
 		if(tops_emailList_listsLabel != null) {
 			if(tops_emailList_listsLabel.length > 0) {
-				for(i = 0; i < tops_emailList_listsLabel.length) {
+				for(i = 0; i < tops_emailList_listsLabel.length; i++) {
 					let currentlistlabel = tops_emailList_listsLabel[i];
 					console.log(currentlistlabel.innerHTML);
 				}
