@@ -5,6 +5,11 @@ function newsletterLoad() {
 	// passing it a callback function
 	observer = new MutationObserver(function(mutationsList, observer) {
 		console.log(mutationsList);
+		let tops_emailList_label = document.getElementById("list_memberships_label_0");
+		
+		if(tops_emailList_label != null) {
+			tops_emailList_label_inner = tops_emailList_label.innerHTML;
+		}
 	});
 
 	// call 'observe' on that MutationObserver instance, 
