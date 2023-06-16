@@ -5,7 +5,11 @@ permalink: "/signup/"
 image: assets/images/tops_signup_banner.jpg
 ---
 
-## TOPS Email List
-We are excited about your interest in the Transform to OPen Science (TOPS) program. As we embark on our journey to create a scientific environment more inclusive to all demographics - we are interested in growing our community of open science champions!
+## Join the Transform to Open Science Community
+Thank you for your interest in NASA’s Transform to Open Science (TOPS) program. Participation and input from the scientific community is vital as we continue working to help create a more inclusive and accessible scientific culture.
 
-Please fill out the form with your information - once completed, will then add you to the TOP's emailing list - if requested to find out about information and opportunities with TOPS.  If you are interested in participating in the discussion without being on the email list, you can also join the discussion at <https://github.com/nasa/Transform-to-Open-Science/discussions>
+**Subscribe to the TOPS Monthly Newsletter and Listserv**
+Subscribe to our newsletter with information about upcoming open science events and announcements.
+
+**Pre-Enroll in Open Science 101 (OS101)**
+NASA's OS101 is a 5-module curriculum designed to equip researchers, students and citizen scientists with the knowledge and skills to navigate the principles and practices of open science, including developing an open science plan.
